@@ -1,6 +1,6 @@
 feature 1 + bugfix 1
 feature 2
 feature 3
-feature extra
+feature extra + its main feature
 feature 4 + bugfix 2
 
